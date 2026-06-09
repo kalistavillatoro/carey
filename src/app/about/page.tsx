@@ -73,7 +73,7 @@ export default function AboutPage() {
           </p>
         </div>
 
-        {/* ── Institutional Foundation ── */}
+        {/* ── Carey & CAPS ── */}
         <div className="divider-animated" data-delay="0" style={{ marginBottom: '56px' }} />
         <div style={{ marginBottom: '80px' }}>
           <div className="fade-up" data-delay="60" style={{
@@ -142,7 +142,7 @@ export default function AboutPage() {
               Rowing · Cricket · Football · Netball · Swimming · Basketball · Soccer · Tennis · Athletics · Cross Country · Water Polo · Volleyball · Golf · Field Hockey · Lacrosse · Track &amp; Field · and others
             </p>
           </div>
-          <div className="fade-up" data-delay="200"}>
+          <div className="fade-up" data-delay="200">
             <p style={{
               fontFamily: 'var(--font-mono)', fontSize: '11px',
               textTransform: 'uppercase', letterSpacing: '0.12em',
